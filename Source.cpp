@@ -33,14 +33,13 @@ int main()
 	Employee employee2 = Employee("Mark", "Google", 25);
 	employee2.IntroduceYourself();
 	
-	cout << "hello" << endl;
-	cout << "work" << endl;
+
 
 
 
 	system("pause");
 	return 0;
 
-	// changes made 
+	
 
 }
